@@ -1,0 +1,54 @@
+{
+  "teams": [
+    {
+      "name": "Arsenal",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Manchester City",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Liverpool",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Chelsea",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Tottenham Hotspur",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    }
+  ]
+}
