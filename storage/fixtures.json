@@ -1,11 +1,10 @@
 {
     "fixtures": [
-      {
-        "home_team": "MANCHESTER CITY",
-        "away_team": "ARSENAL",
-        "date": "06/05/25",
-        "score": "3-2"
-      }
+        {
+            "home_team": "MANCHESTER CITY",
+            "away_team": "ARSENAL",
+            "date": "06/05/25",
+            "score": "2-1"
+        }
     ]
-  }
-  
+}

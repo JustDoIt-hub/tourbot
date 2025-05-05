@@ -41,6 +41,16 @@
       "points": 0
     },
     {
+      "name": "Aston Villa",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
       "name": "Tottenham Hotspur",
       "wins": 0,
       "losses": 0,
@@ -49,6 +59,96 @@
       "goals_against": 0,
       "goal_difference": 0,
       "points": 0
-    }
+    },
+    {
+      "name": "Everton",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Nottingham Forest",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Newcastle United",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Wolves",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Brighton",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "West Ham",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Brentford",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Crystal Palace",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    },
+    {
+      "name": "Leicester City",
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    }  
   ]
 }
