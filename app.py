@@ -2,7 +2,7 @@ from flask import Flask, render_template
 import json
 import os
 
-app = Flask(__name__, template_folder='site/templates')  # Explicitly set template folder
+app = Flask(__name__, template_folder='site/templates')
 
 # Serve static files (CSS, images, etc.)
 @app.route('/static/<path:filename>')
