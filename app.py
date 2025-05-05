@@ -5,7 +5,8 @@ def load_teams():
     with open("storage/teams.json", "r") as f:
         return json.load(f)
 
-app = Flask(__name__)
+# Tell Flask to look in the site/static/ directory for static files
+app = Flask(__name__, static_folder='site/static')
 
 @app.route('/')
 def home():
@@ -17,9 +18,8 @@ def get_scoreboard():
     for team in teams:
         team["points"] = team["wins"] * 3 + team["draws"]
         team["goal_difference"] = team["goals_for"] - team["goals_against"]
-    return sorted(teams, key=lambda x: (x["points"], x["goal_difference"]), reverse=True)
     
-    return scoreboard
+    return sorted(teams, key=lambda x: (x["points"], x["goal_difference"]), reverse=True)
 
 if __name__ == '__main__':
     app.run(debug=True)

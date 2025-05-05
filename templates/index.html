@@ -52,8 +52,8 @@
             <tr>
                 <th>Team</th>
                 <th>Wins</th>
-                <th>Losses</th>
                 <th>Draws</th>
+                <th>Losses</th>
                 <th>Goals For</th>
                 <th>Goals Against</th>
                 <th>Goal Difference</th>
@@ -63,17 +63,17 @@
         <tbody>
             {% for team in scoreboard %}
             <tr>
-              <td>{{ team.name }}</td>
-              <td>{{ team.wins }}</td>
-              <td>{{ team.draws }}</td>
-              <td>{{ team.losses }}</td>
-              <td>{{ team.goals_for }}</td>
-              <td>{{ team.goals_against }}</td>
-              <td>{{ team.goal_difference }}</td>
-              <td>{{ team.points }}</td>
+                <td>{{ team.name }}</td>
+                <td>{{ team.wins }}</td>
+                <td>{{ team.draws }}</td>
+                <td>{{ team.losses }}</td>
+                <td>{{ team.goals_for }}</td>
+                <td>{{ team.goals_against }}</td>
+                <td>{{ team.goal_difference }}</td>
+                <td>{{ team.points }}</td>
             </tr>
             {% endfor %}
-          </tbody>          
+        </tbody>
     </table>
 
 </body>
