@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Python virtual environment
+venv/
+env/
+
+# VS Code project settings
+.vscode/
+
+# Pyrogram session files
+*.session
+*.session-journal
+
+# JSON storage files (optional if you don't want to share team/fixture data)
+storage/*.json
+
+# Netlify build outputs (if any in future)
+.netlify/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and backups
+*.log
+*.bak
+
+# Environment / config files
+config.py
+.env
